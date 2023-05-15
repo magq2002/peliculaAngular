@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+html, body, .row {
+    padding: 0;
+    margin: 0;
+}
+img.logo{
+    height: 140 px;
+    width: 140 px;
+    border: 1rem;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
